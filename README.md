@@ -1,5 +1,7 @@
 # Membership Database Schema
 
+[![Join the chat at https://gitter.im/koistya/membership.sql](https://badges.gitter.im/koistya/membership.sql.svg)](https://gitter.im/koistya/membership.sql?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Membership database schema boilerplate for
 > [PostgreSQL](https://aws.amazon.com/rds/postgresql/),
 > [SQL Server](https://azure.microsoft.com/services/sql-database/),
@@ -11,12 +13,8 @@
 > claims. Feel free to use it either as a boilerplate when starting a new web
 > application project, or as a reference implementation.
 
-**Note**: This is an *early preview*. See [PostgreSQL implementation](https://github.com/kriasoft/membership.sql/tree/master/postgres).
+**Note**: This is an early preview. See [PostgreSQL implementation](https://github.com/kriasoft/membership.sql/tree/master/postgres).
 Want to help? Let's get in touch on Skype: koistya.
-
-### To-Do List
-
-[![todo](https://dl.dropboxusercontent.com/u/16006521/membership/todo.png)](https://waffle.io/kriasoft/membership.sql)
 
 ### Related Projects
 
@@ -31,4 +29,4 @@ file. The documentation to the project is licensed under the
 
 --
 
-Made with ♥ by Konstantin Tarkus ([@koistya](https://twitter.com/koistya)) and [contributors](https://github.com/kriasoft/membership.sql/graphs/contributors)
+Made with ♥ by Konstantin Tarkus ([@koistya](https://twitter.com/koistya)) and [contributors](https://github.com/kriasoft/react-starter-kit/graphs/contributors)
